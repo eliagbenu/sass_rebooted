@@ -1,0 +1,15 @@
+$color_1 : #ccc;
+$color_2 : #e31;
+$color_3 : #000;
+
+body{
+    background:$color_1;    
+
+    p{
+        color: $color_3;
+        span{
+            background-color:$color_2;
+            font-size: 30px;
+        }
+    }
+}

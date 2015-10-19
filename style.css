@@ -1,0 +1,7 @@
+body {
+  background: #cccccc; }
+  body p {
+    color: black; }
+    body p span {
+      background-color: #ee3311;
+      font-size: 30px; }
